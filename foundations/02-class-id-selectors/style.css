@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-#third-element {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #fourth-element {
    background-color: lightgreen;
-   font-size: 24px;
    font-weight: bold; 
 }
