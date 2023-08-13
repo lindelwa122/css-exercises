@@ -9,6 +9,10 @@ body {
   flex-direction: column;
 }
 
+body > div {
+  padding: 15px;
+}
+
 img {
   width: 600px;
 }
