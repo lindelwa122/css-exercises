@@ -22,7 +22,6 @@ img {
 .content {
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 52px;
 }
 
