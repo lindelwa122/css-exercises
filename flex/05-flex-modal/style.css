@@ -25,6 +25,17 @@ body {
   gap: 10px;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .heading {
+  font-weight: 700;
+  font-size: 18px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
