@@ -9,9 +9,9 @@ body {
 }
 
 .header,
-.left-part,
+.left,
 .links,
-.right-part {
+.right {
   display: flex;
   justify-content: center;
   align-items: center;
