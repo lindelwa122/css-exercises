@@ -19,6 +19,22 @@ img {
   gap: 32px;
 }
 
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 52px;
+}
+
+.text {
+  flex-wrap: wrap;
+}
+
+.content > div {
+  flex-basis: 200px;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
