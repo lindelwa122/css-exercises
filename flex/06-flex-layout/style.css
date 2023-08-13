@@ -55,6 +55,13 @@ a {
   gap: 10px;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer {
   background-color: rgb(238, 238, 238);
 }
