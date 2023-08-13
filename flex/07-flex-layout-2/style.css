@@ -57,7 +57,9 @@ body {
   margin: 0;
 }
 
-
+.sidebar ul li {
+  margin-bottom: 20px;
+}
 
 .sidebar a {
   font-size: 24px;
