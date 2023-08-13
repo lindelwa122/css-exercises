@@ -22,6 +22,18 @@ body {
   flex: auto;
 }
 
+.cards-wrapper {
+  display: flex;
+  padding: 40px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.cards-wrapper .card {
+  flex: 1 1 200px;
+  height: 300px;
+}
+
 .footer {
   height: 72px;
   background: #eee;
